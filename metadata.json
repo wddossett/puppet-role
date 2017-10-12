@@ -1,0 +1,15 @@
+{
+  "name": "bdossett-role",
+  "version": "0.1.0",
+  "author": "bdossett",
+  "summary": "puppet role",
+  "license": "Apache-2.0",
+  "source": "git@github.com:wddossett/puppet-role.git",
+  "project_page": "https://github.com/wddossett/puppet-role",
+  "issues_url": "https://github.com/wddossett/puppet-role/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
